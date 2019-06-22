@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ca88f95-6e10-4533-8cb4-81fdd5dfeef8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/vizdl/MyTankGame/MyTankGame1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="107" column="23" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/vizdl/MyTankGame5_2/MyTankGame6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="706">
+              <caret line="1849" column="1" lean-forward="true" selection-start-line="1849" selection-start-column="1" selection-end-line="1849" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2240#2241#0" expanded="true" />
+                <element signature="e#2264#2265#0" expanded="true" />
+                <element signature="e#3683#3684#0" expanded="true" />
+                <element signature="e#3702#3703#0" expanded="true" />
+                <element signature="e#6148#6161#0" expanded="true" />
+                <element signature="e#6553#6561#0" expanded="true" />
+                <element signature="class#Tank#0" />
+                <element signature="e#15725#15726#0" expanded="true" />
+                <element signature="e#15746#15747#0" expanded="true" />
+                <element signature="e#15980#15981#0" expanded="true" />
+                <element signature="e#16008#16009#0" expanded="true" />
+                <element signature="e#21075#21076#0" expanded="true" />
+                <element signature="e#21090#21091#0" expanded="true" />
+                <element signature="e#21118#21119#0" expanded="true" />
+                <element signature="e#21135#21136#0" expanded="true" />
+                <element signature="e#21157#21158#0" expanded="true" />
+                <element signature="e#21172#21173#0" expanded="true" />
+                <element signature="e#21200#21201#0" expanded="true" />
+                <element signature="e#21217#21218#0" expanded="true" />
+                <element signature="e#21251#21252#0" expanded="true" />
+                <element signature="e#21278#21279#0" expanded="true" />
+                <element signature="e#21428#21429#0" expanded="true" />
+                <element signature="e#21451#21452#0" expanded="true" />
+                <element signature="e#21495#21496#0" expanded="true" />
+                <element signature="e#21528#21529#0" expanded="true" />
+                <element signature="e#21559#21560#0" expanded="true" />
+                <element signature="e#21582#21583#0" expanded="true" />
+                <element signature="e#21627#21628#0" expanded="true" />
+                <element signature="e#21660#21661#0" expanded="true" />
+                <element signature="class#HostileTank#0" />
+                <element signature="e#22186#22199#0" expanded="true" />
+                <element signature="e#22719#22720#0" expanded="true" />
+                <element signature="e#22740#22741#0" expanded="true" />
+                <element signature="e#22785#22786#0" expanded="true" />
+                <element signature="e#22804#22805#0" expanded="true" />
+                <element signature="class#MyTank#0" />
+                <element signature="e#32570#32571#0" expanded="true" />
+                <element signature="e#32598#32599#0" expanded="true" />
+                <element signature="e#32650#32651#0" expanded="true" />
+                <element signature="e#32671#32672#0" expanded="true" />
+                <element signature="e#33040#33041#0" expanded="true" />
+                <element signature="e#33091#33092#0" expanded="true" />
+                <element signature="class#Bullet#0" />
+                <element signature="e#33794#33795#0" expanded="true" />
+                <element signature="e#33825#33826#0" expanded="true" />
+                <element signature="e#33875#33876#0" expanded="true" />
+                <element signature="e#33902#33903#0" expanded="true" />
+                <element signature="e#34577#34578#0" expanded="true" />
+                <element signature="e#34597#34598#0" expanded="true" />
+                <element signature="e#34627#34628#0" expanded="true" />
+                <element signature="e#34648#34649#0" expanded="true" />
+                <element signature="class#Bomb#0" />
+                <element signature="e#37109#37110#0" expanded="true" />
+                <element signature="e#37131#37132#0" expanded="true" />
+                <element signature="e#37160#37161#0" expanded="true" />
+                <element signature="e#37182#37183#0" expanded="true" />
+                <element signature="class#Record#0" />
+                <element signature="e#41105#41106#0" expanded="true" />
+                <element signature="e#41131#41132#0" expanded="true" />
+                <element signature="e#41187#41188#0" expanded="true" />
+                <element signature="e#41228#41229#0" expanded="true" />
+                <element signature="class#Badge#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/vizdl/MyTankGame5_1/MyTankGame6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="656" column="24" selection-start-line="656" selection-start-column="17" selection-end-line="656" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>path</find>
+      <find>main</find>
+      <find>paint</find>
+      <find>run</find>
+      <find>repaint</find>
+      <find>MyPanel</find>
+      <find>actionp</find>
+    </findStrings>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="847" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyselfGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyselfGame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyselfGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyselfGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyselfGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyselfGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyselfGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyselfGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="vizdl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyselfGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyselfGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="vizdl" type="462c0819:PsiDirectoryNode" />
+              <item name="MyTankGame5_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyselfGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyselfGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="vizdl" type="462c0819:PsiDirectoryNode" />
+              <item name="MyTankGame5_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../改后" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="847" height="1047" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29542646" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/cn/vizdl/MyTankGame/MyTankGame1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/vizdl/MyTankGame5_2/MyPanel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/vizdl/MyTankGame5_2/HostileTank.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#8959#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/vizdl/MyTankGame5_2/Bullet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#2823#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/vizdl/MyTankGame/MyTankGame1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="107" column="23" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/vizdl/MyTankGame5_1/MyTankGame6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="656" column="24" selection-start-line="656" selection-start-column="17" selection-end-line="656" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/vizdl/MyTankGame5_2/MyTankGame6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="706">
+          <caret line="1849" column="1" lean-forward="true" selection-start-line="1849" selection-start-column="1" selection-end-line="1849" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#2264#2265#0" expanded="true" />
+            <element signature="e#3683#3684#0" expanded="true" />
+            <element signature="e#3702#3703#0" expanded="true" />
+            <element signature="e#6148#6161#0" expanded="true" />
+            <element signature="e#6553#6561#0" expanded="true" />
+            <element signature="class#Tank#0" />
+            <element signature="e#15725#15726#0" expanded="true" />
+            <element signature="e#15746#15747#0" expanded="true" />
+            <element signature="e#15980#15981#0" expanded="true" />
+            <element signature="e#16008#16009#0" expanded="true" />
+            <element signature="e#21075#21076#0" expanded="true" />
+            <element signature="e#21090#21091#0" expanded="true" />
+            <element signature="e#21118#21119#0" expanded="true" />
+            <element signature="e#21135#21136#0" expanded="true" />
+            <element signature="e#21157#21158#0" expanded="true" />
+            <element signature="e#21172#21173#0" expanded="true" />
+            <element signature="e#21200#21201#0" expanded="true" />
+            <element signature="e#21217#21218#0" expanded="true" />
+            <element signature="e#21251#21252#0" expanded="true" />
+            <element signature="e#21278#21279#0" expanded="true" />
+            <element signature="e#21428#21429#0" expanded="true" />
+            <element signature="e#21451#21452#0" expanded="true" />
+            <element signature="e#21495#21496#0" expanded="true" />
+            <element signature="e#21528#21529#0" expanded="true" />
+            <element signature="e#21559#21560#0" expanded="true" />
+            <element signature="e#21582#21583#0" expanded="true" />
+            <element signature="e#21627#21628#0" expanded="true" />
+            <element signature="e#21660#21661#0" expanded="true" />
+            <element signature="class#HostileTank#0" />
+            <element signature="e#22186#22199#0" expanded="true" />
+            <element signature="e#22719#22720#0" expanded="true" />
+            <element signature="e#22740#22741#0" expanded="true" />
+            <element signature="e#22785#22786#0" expanded="true" />
+            <element signature="e#22804#22805#0" expanded="true" />
+            <element signature="class#MyTank#0" />
+            <element signature="e#32570#32571#0" expanded="true" />
+            <element signature="e#32598#32599#0" expanded="true" />
+            <element signature="e#32650#32651#0" expanded="true" />
+            <element signature="e#32671#32672#0" expanded="true" />
+            <element signature="e#33040#33041#0" expanded="true" />
+            <element signature="e#33091#33092#0" expanded="true" />
+            <element signature="class#Bullet#0" />
+            <element signature="e#33794#33795#0" expanded="true" />
+            <element signature="e#33825#33826#0" expanded="true" />
+            <element signature="e#33875#33876#0" expanded="true" />
+            <element signature="e#33902#33903#0" expanded="true" />
+            <element signature="e#34577#34578#0" expanded="true" />
+            <element signature="e#34597#34598#0" expanded="true" />
+            <element signature="e#34627#34628#0" expanded="true" />
+            <element signature="e#34648#34649#0" expanded="true" />
+            <element signature="class#Bomb#0" />
+            <element signature="e#37109#37110#0" expanded="true" />
+            <element signature="e#37131#37132#0" expanded="true" />
+            <element signature="e#37160#37161#0" expanded="true" />
+            <element signature="e#37182#37183#0" expanded="true" />
+            <element signature="class#Record#0" />
+            <element signature="e#41105#41106#0" expanded="true" />
+            <element signature="e#41131#41132#0" expanded="true" />
+            <element signature="e#41187#41188#0" expanded="true" />
+            <element signature="e#41228#41229#0" expanded="true" />
+            <element signature="class#Badge#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
